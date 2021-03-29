@@ -1,3 +1,5 @@
+
+<!-- cspell: disable bracketsstartstop -->
 <div align="center">
 
   <h1><code>node-deno-template</code></h1>
@@ -8,25 +10,17 @@
     <a href="https://github.com/josh-hemphill/maxminddb-deno/releases"><img src="https://img.shields.io/github/v/tag/josh-hemphill/node-deno-template?sort=semver&style=flat-square" alt="version" /></a>
     <a href="https://github.com/josh-hemphill/maxminddb-deno/actions/workflows/test.yml"><img src="https://img.shields.io/github/workflow/status/josh-hemphill/maxminddb-deno/Test?label=Tests&style=flat-square" alt="Test Status" /></a>
     <a href="https://github.com/josh-hemphill/maxminddb-deno/actions/workflows/build.yml"><img src="https://img.shields.io/github/workflow/status/josh-hemphill/maxminddb-deno/Build?label=Build&style=flat-square" alt="Build Status" /></a>
+    <a href="https://npmjs.org/package/node-deno-template"><img src="https://img.shields.io/static/v1?label=&message=NPM&color=informational&style=flat-square" alt="NPM" /></a>
     <a href="https://deno.land/x/maxminddb/mod.ts"><img src="https://img.shields.io/static/v1?label=&message=Deno&logo=deno&color=informational&style=flat-square" alt="Deno Page" /></a>
     <a href="https://doc.deno.land/https/deno.land/x/maxminddb/mod.ts"><img src="https://img.shields.io/static/v1?label=&message=API-Doc&color=informational&style=flat-square&logo=deno" alt="API doc" /></a>
+    <a href="https://libraries.io/npm/node-deno-template"><img src="https://img.shields.io/librariesio/release/npm/node-deno-template?label=Deps&style=flat-square" alt="Libraries.io dependency status for latest release" /></a>
+    <a href="https://openbase.io/js/node-deno-template?utm_source=embedded&utm_medium=badge&utm_campaign=rate-badge"><img src="https://badges.openbase.io/js/rating/node-deno-template.svg" alt="Rate on Openbase" /></a>
+    <a href="https://codecov.io/gh/josh-hemphill/node-deno-template"><img src="https://img.shields.io/codecov/c/github/josh-hemphill/node-deno-template.svg?style=flat-square" alt="Codecov" /></a>
   </p>
 
 </div>
 
 <br />
-
-<!-- cspell: disable bracketsstartstop -->
-
-[![version](https://img.shields.io/github/v/tag/josh-hemphill/node-deno-template?sort=semver&style=flat-square)](https://github.com/josh-hemphill/node-deno-template/releases)
-[![NPM](https://img.shields.io/static/v1?label=&message=NPM&color=informational&style=flat-square)](https://npmjs.org/package/node-deno-template)
-[![Deno](https://img.shields.io/static/v1?label=&message=Deno&color=informational&style=flat-square)](https://deno.land/x/node-deno-template/mod.ts)
-[![API doc](https://img.shields.io/static/v1?label=Deno&message=API-Doc&color=informational&style=flat-square)](https://doc.deno.land/https/deno.land/x/node-deno-template/mod.ts)
-<!-- [![docs](https://img.shields.io/static/v1?label=&message=Docs&color=informational&style=flat-square)](https://josh-hemphill.github.io/node-deno-template/#/) -->
-[![Build Status](https://img.shields.io/travis/josh-hemphill/node-deno-template.svg?style=flat-square)](https://travis-ci.org/josh-hemphill/node-deno-template)
-[![Codecov](https://img.shields.io/codecov/c/github/josh-hemphill/node-deno-template.svg?style=flat-square)](https://codecov.io/gh/josh-hemphill/node-deno-template)
-[![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/node-deno-template?label=Deps&style=flat-square)](https://libraries.io/npm/node-deno-template)
-[![Rate on Openbase](https://badges.openbase.io/js/rating/node-deno-template.svg)](https://openbase.io/js/node-deno-template?utm_source=embedded&utm_medium=badge&utm_campaign=rate-badge)
 
 ## Install
 
