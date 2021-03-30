@@ -1,5 +1,5 @@
 {
-	"name": "deno-node-template",
+	"name": "node-deno-template",
 	"version": "1.0.0-alpha.1",
 	"description": "configurable template string replacement",
 	"repository": {
